@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/errormanager.c
+stdlib.h
+-
+string.h
+-
+errormanager.h
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/errormanager.h
+
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/errormanager.h
+
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/messages.h
+
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/swmm_output.c
+swmm_output.h
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/swmm_output.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errormanager.h
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/errormanager.h
+messages.h
+/mnt/c/swmm_linux/Stormwater-Management-Model-develop/tools/swmm-output/src/messages.h
+
+tools/swmm-output/include/swmm_output.h
+swmm_output_export.h
+tools/swmm-output/include/swmm_output_export.h
+
+tools/swmm-output/include/swmm_output_export.h
+

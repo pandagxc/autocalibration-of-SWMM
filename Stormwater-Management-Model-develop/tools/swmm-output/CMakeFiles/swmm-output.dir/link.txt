@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libswmm-output.so -o ../../lib/libswmm-output.so CMakeFiles/swmm-output.dir/src/swmm_output.c.o CMakeFiles/swmm-output.dir/src/errormanager.c.o 
